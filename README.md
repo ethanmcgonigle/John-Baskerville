@@ -8,5 +8,5 @@ John Baskerville
 
 
 
-History of Type (https://ethanmcgonigle.github.io/John-Baskerville)
+-[History of Type](https://ethanmcgonigle.github.io/John-Baskerville/)
 ---------------
