@@ -12,4 +12,4 @@ John Baskerville
 
 -[History of Type]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype.html)
 
--[History of Type]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype-version2)
+-[History of Type List]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype-version2.html)
