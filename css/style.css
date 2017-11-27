@@ -1,24 +1,38 @@
-body {
-font-family: Georgia, 'Times New Roman', serif; 
-font-size: 100%;
-} 
+/* ----- CSS RESET ----- */
 
-h1,h2 {
-color: #ee3e80;
+* {
+    padding: 0;
+    margin: 0;
+    font-size:100%;
+    line-height: 1em;    
 }
 
-h1 { 
-font-size: 4.236em;
-}
+body {Width: 75% 
+max-width: 600px;
+font-family: Georgia, 'Times New Roman' serif;
+margin: auto;
+background: #f0f0f0;
+color: 333;}
 
-h2 { 
-font-size: 2.618em;
-}
 
-h3 { 
-font-size: 1.618em;
-}
 
-p {
-color: #665544
-}
+/* ----------------- TYPOGRAPHY -------------------- */
+
+h1,h2,h3 { 
+    font-weight: normal;
+    color: #c06;
+    text-align: center;}
+
+p, li, blockquote { 
+    margin-bottom: 1.5em;
+    line-height: 1.5;}
+
+h1 {font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: 1em; }
+
+h2 {font-size: 2.25em;
+    margin-bottom: 1em;}
+    
+body
+    
