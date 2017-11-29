@@ -101,15 +101,3 @@ footer hr {margin 3em 0}
 
 /* --------------- TABLES ---------------*/  
 
-tr {
-    border: 2px solid black;
-}
-
-
-tr { 
-    width: 100%; 
-}
-
-th {
-    height: 50px;
-}
