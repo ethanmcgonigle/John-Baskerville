@@ -1,0 +1,102 @@
+/* ----- CSS RESET ----- */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size:100%;
+    line-height: 1em;    
+}
+
+body {width: 75%; 
+max-width: 60 0px;
+font-family: Georgia, 'Times New Roman' serif;
+margin: auto;
+background: #f0f0f0;
+color: 333;}
+
+/* -------------- LINKS --------------*/
+
+a:hover {
+    color: #006341;
+    text-decoration: none;
+    border-bottom: 1px dotted;}
+
+
+/* ---------------- NAVIGATION ----------------*/
+
+nav {
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin:0 ;
+    width: 100%;
+    background-color: #c08;
+    padding: 1em 0; }
+
+nav ul {
+    
+    text-align: center;
+text-transform: uppercase;
+letter-spacing: 2px;}
+
+nav ul li {
+display: inline;
+margin: 20px; }
+
+nav a:hover {
+    border-bottom: none;
+    color: #c06
+    } 
+
+
+/* ----------------- TYPOGRAPHY -------------------- */
+
+h1,h2,h3 { 
+    font-weight: normal;
+    color: #c06;
+    text-align: center;}
+
+p, li, blockquote { 
+    margin-bottom: 1.5em;
+    line-height: 1.5;}
+
+h1 {font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: 1em; }
+
+h2 {font-size: 2.25em;
+    margin-bottom: 1em;}
+    
+blockquote {
+    padding: 1em 0 4em 0;
+    font-size: 1.75em;
+    line-height: 1.4em;} 
+
+    blockquote cite {
+font-size: .75em;
+}
+    
+    
+/* --------------- IMAGES ---------------*/
+
+img { 
+    display: block;
+    margin: 4em auto;
+    padding: 0;
+    max-width: 100%;}
+        
+    
+/* --------------- FOOTER ---------------*/  
+    
+footer {
+        text-align: center;
+        font-size: .75em;
+        line-height: 1.5em;
+        padding-bottom: 2em;
+    }
+    
+footer hr {margin 3em 0}
+    
+body
+    
