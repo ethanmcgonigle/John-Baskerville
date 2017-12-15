@@ -15,6 +15,10 @@ John Baskerville
 -[Baskerville 5]( https://ethanmcgonigle.github.io/John-Baskerville/baskerville5.html)
 
 
+
+History of Type
+----------------
+
 -[History of Type]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype.html)
 
 -[History of Type List]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype-version2.html )
