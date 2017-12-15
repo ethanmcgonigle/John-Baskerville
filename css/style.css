@@ -115,9 +115,9 @@ th, td {
 th, td {
     border-bottom: 1px solid #ddd;
 }
-tr:hover {background-color: #000;}
+tr:hover {background-color: #f5f5f5;}
 tr:nth-child(even) {background-color: #f2f2f2;}
-th {
+th {padding-top: 0em, 2em;
     background-color: #eb3b3b;
     color: white;
 }
