@@ -115,10 +115,10 @@ th, td {
 th, td {
     border-bottom: 1px solid #ddd;
 }
-tr:hover {background-color: #333;}
+tr:hover {background-color: #000;}
 tr:nth-child(even) {background-color: #f2f2f2;}
 th {
-    background-color: #4CAF50;
+    background-color: #eb3b3b;
     color: white;
 }
 
