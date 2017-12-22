@@ -14,7 +14,7 @@ John Baskerville
 
 -[Baskerville 5]( https://ethanmcgonigle.github.io/John-Baskerville/baskerville5.html)
 
--[Baskerville 5]( https://ethanmcgonigle.github.io/John-Baskerville/baskerville6.html)
+-[Baskerville 6]( https://ethanmcgonigle.github.io/John-Baskerville/baskerville6.html)
 
 
 
