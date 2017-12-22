@@ -1,0 +1,141 @@
+/* ------ CSS RESET ------ */
+
+* {
+   padding: 0;
+   margin: 0;
+   font-size:100%;
+   line-height: 1em;
+  }
+
+body { 
+        width: 75%; 
+        max-width: 670px;
+        margin: auto ;
+        background: #fafafa;
+        color: #333;
+}
+        
+ h1, h2, h3 {
+    font-weight: normal;
+    color: #c06;
+    text-align: center;}
+
+ p, li, blockquote {
+    margin-bottom: 1.5em;
+    line-height: 1.5;}
+        
+h1 {font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: .1em; }
+
+h2 {font-size: 2.25em;
+    margin-bottom: 1em}   
+
+blockquote p {
+    hanging-punctuation: first;
+    text-indent: -0.5em; /* Change according to your font */
+            }
+.kern { letter-spacing: -5px} 
+
+.intro {font-size: 1.25em}
+
+header {margin:6em 0}
+
+header h2 {
+    font-style: italic;
+    font-size: 2.25em;
+    margin-top: .5em;
+    color: #333;}
+
+hr {
+    margin: 3em 0;
+    height: 1px;    
+    background-color:#333;
+    color:#333;
+        border: 0 none;
+        }
+
+/* -------------- LINKS -------------------- */
+
+a {
+    color: #c06; 
+    text-decoration: none;} 
+
+
+
+a:hover {
+    color: #006341;
+    border-bottom: 1px dotted;} 
+
+
+
+/* ---------------- NAVIGATION ----------------------- */
+
+nav {    
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #c06;
+    padding: 1em 0; 
+    font-size: 0.75em}
+
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;}
+
+nav ul li {
+    display: inline;
+    margin: 20px; } 
+
+ nav a:link {
+    color: #fff
+}
+
+nav a:visited {
+   color: #fff
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: #c06
+    } 
+
+/* ----------------- TYPOGRAPHY --------------------- */
+
+
+
+blockquote {
+    padding: 1em 0 4em 0;
+    font-size: 1.75em;
+    line-height: 1.3em;
+    color: #777;} 
+
+blockquote cite    {
+    font-size: .75em; 
+}
+
+
+/* ------------------- IMAGES -------------------- */
+
+img {
+    display: block;
+    margin: 4em auto; /* This sets the margin top and bottom to 0px. The auto on the left and right will automatically calculate the space either side and split it evenly between the two margins. */
+    padding: 0;
+    max-width: 100%; /* This means that the images will resize to fit the parent container instead of just rendering at its native width and overflowing its containing box. */
+}
+
+/*----------------- FOOTER ------------------ */
+    
+footer {
+    text-align: center;
+    font-size: .75em;
+    line-height: 1.5em;
+    padding-bottom: 2em;
+    }
+
+footer hr {margin: 3em 0
+    } 
