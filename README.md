@@ -14,6 +14,8 @@ John Baskerville
 
 -[Baskerville 5]( https://ethanmcgonigle.github.io/John-Baskerville/baskerville5.html)
 
+-[Baskerville 5]( https://ethanmcgonigle.github.io/John-Baskerville/baskerville6.html)
+
 
 
 History of Type
