@@ -145,31 +145,43 @@ footer hr {margin: 3em 0
 
 /*----------------- TABLES ------------------ */
 
-th, td {
-    padding: 10px;
-    text-align: center;
-}
-th, td {
-    border-bottom: 2px solid black;
-}
-tr:nth-child(even) {background-color: ;}
-th {padding-top: 0em, 1em;
-    background-color: #c06;
-    color: white;
-}
 
-table {
-    width: 70%;
+table, th, td {
+   border: 1px solid grey;
 }
-
-th {
-    height: 40px;
-}
-
 table {
     border-collapse: ;
 }
 
 table, th, td {
     border: 1px solid black;
+}
+table {
+    border: 1px solid black;
+}
+table {
+    width: 70%;
+}
+
+th {
+    height: 30px;
+}
+th {
+    text-align: center;
+}
+td {
+    height: 0px;
+    vertical-align: bottom;
+}
+th, td {
+    padding:10px;
+    text-align: center;
+}
+th, td {
+    border-bottom: 1px solid black;
+}
+tr:hover {background-color: grey;}
+th {
+    background-color: #c06;
+    color: white;
 }
