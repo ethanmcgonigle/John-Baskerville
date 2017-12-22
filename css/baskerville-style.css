@@ -8,6 +8,8 @@
   }
 
 body { 
+    
+    font-family: 'Libre Baskerville', serif;
         width: 75%; 
         max-width: 670px;
         margin: auto ;
@@ -140,3 +142,34 @@ footer {
 
 footer hr {margin: 3em 0
     } 
+
+/*----------------- TABLES ------------------ */
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+th, td {
+    border-bottom: 2px solid black;
+}
+tr:nth-child(even) {background-color: ;}
+th {padding-top: 0em, 1em;
+    background-color: #c06;
+    color: white;
+}
+
+table {
+    width: 70%;
+}
+
+th {
+    height: 40px;
+}
+
+table {
+    border-collapse: ;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
