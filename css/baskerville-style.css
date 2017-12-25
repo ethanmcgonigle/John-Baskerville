@@ -34,7 +34,7 @@ h2 {font-size: 2.25em;
 
 blockquote {
     hanging-punctuation: first;
-    text-indent: -0.5em; /* Change according to your font */
+    text-indent: -0.5em; 
             }
 .kern { letter-spacing: -5px} 
 
