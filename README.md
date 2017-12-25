@@ -23,10 +23,10 @@ History of Type
 
 -[History of Type]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype.html)
 
--[History of Type 2]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype-version2.html)
+-[History of Type 2]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype2.html)
 
--[History of Type 3]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype-version3.html)
+-[History of Type 3]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype3.html)
 
--[History of Type 4]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype-version4.html)
+-[History of Type 4]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype4.html)
 
--[History of Type 5]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype-version5.html)
+-[History of Type 5]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype5.html)
