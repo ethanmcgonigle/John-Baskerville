@@ -35,4 +35,4 @@ History of Type
 Stefan Sagmeister Essay
 -----------------------
 
--[Essay]( https://ethanmcgonigle.github.io/Essay/essay.html)
+-[Essay]( https://ethanmcgonigle.github.io/GitHub/essay.html)
