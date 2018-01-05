@@ -35,7 +35,7 @@ History of Type
 Stefan Sagmeister Essay
 -----------------------
 
--[Essay]( https://ethanmcgonigle.github.io/John-Baskerville/Essay/essay.html)
+-[Essay]( https://ethanmcgonigle.github.io/Essay/essay.html)
 
 -[The Essay]( https://ethanmcgonigle.github.io/John-Baskerville/Essay/myessay.html)
 
