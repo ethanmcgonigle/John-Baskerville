@@ -1,8 +1,8 @@
 Stefan Sagmeister Essay
 -----------------------
 
--[Home]( https://ethanmcgonigle.github.io/Essay/essay.html)
+-[Home]( https://ethanmcgonigle.github.io/John-Baskerville/essay.html)
 
--[The Essay]( https://ethanmcgonigle.github.io/Essay/myessay.html)
+-[The Essay]( https://ethanmcgonigle.github.io/John-Baskerville/myessay.html)
 
--[Sources]( https://ethanmcgonigle.github.io/Essay/sources.html)
+-[Sources]( https://ethanmcgonigle.github.io/John-Baskerville/sources.html)
