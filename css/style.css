@@ -17,7 +17,7 @@ body {
         
  h1, h2, h3 {
     font-weight: normal;
-    color: #c06;
+    color: #0054a6;
     text-align: center;}
 
  p, li, blockquote {
@@ -50,14 +50,14 @@ header h2 {
 hr {
     margin: 3em 0;
     height: 1px;    
-    background-color:#c06;
+    background-color:#0054a6;
     border: 0 none;
         }
 
 /* -------------- LINKS -------------------- */
 
 a {
-    color: #c06; 
+    color: #0054a6; 
     text-decoration: none;} 
 
 
@@ -76,7 +76,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #c06;
+    background-color: #0054a6;
     padding: 1em 0; 
     font-size: 0.75em}
 
@@ -150,7 +150,7 @@ caption {
     text-transform: uppercase;
     font-weight: normal;
     text-align: left;
-    background: #c06;}
+    background: #0054a6;}
 
 th, td {
     padding: .6em;}
