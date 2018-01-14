@@ -35,11 +35,11 @@ History of Type
 Stefan Sagmeister Essay
 -----------------------
 
--[Enter]( https://ethanmcgonigle.github.io/mock-enter/mockenter.html)
+-[Essay]( https://ethanmcgonigle.github.io/John-Baskerville/essay.html)
 
--[Essay]( https://github.com/ethanmcgonigle/Stefan-Sagmeister.git/mockessay.html)
+-[The Essay]( https://ethanmcgonigle.github.io/John-Baskerville/myessay.html)
 
--[Sources]( https://github.com/ethanmcgonigle/Stefan-Sagmeister.git/mocksources.html)
+-[Sources]( https://ethanmcgonigle.github.io/John-Baskerville/sources.html)
 
 
 
