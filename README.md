@@ -32,14 +32,3 @@ History of Type
 -[History of Type 5]( https://ethanmcgonigle.github.io/John-Baskerville/thehistoryoftype5.html)
 
 
-Stefan Sagmeister Essay
------------------------
-
--[Essay]( https://ethanmcgonigle.github.io/John-Baskerville/essay.html)
-
--[The Essay]( https://ethanmcgonigle.github.io/John-Baskerville/myessay.html)
-
--[Sources]( https://ethanmcgonigle.github.io/John-Baskerville/sources.html)
-
-
-
